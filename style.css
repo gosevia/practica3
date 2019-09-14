@@ -1,0 +1,93 @@
+body{
+    background-image: url('bg.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-fluid{
+    width: 95%;
+    padding-top: 31rem;
+}
+.object{
+    opacity: 0.9;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: relative;
+    float: left;
+    text-align: center;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+.object-image{
+    height: 100px;
+}
+#bird1{
+    width: 100%;
+    padding: 1rem;
+}
+#bird2{
+    width: 100%;
+    padding: 1rem;
+}
+#bird3{
+    width: 100%;
+    padding: 1rem;
+}
+#pig1{
+    width: 100%;
+    padding-top: 3rem;
+}
+#pig2{
+    width: 100%;
+    padding-top: 3rem;
+}
+#pig3{
+    width: 100%;
+    padding-top: 3rem;
+}
+#detalle1{
+    background-color: white;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 5px;
+}
+#detalle2{
+    background-color: white;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 5px;
+}
+#detalle3{
+    background-color: white;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 5px;
+}
+#detalle4{
+    background-color: white;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 5px;
+}
+#detalle5{
+    background-color: white;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 5px;
+}
+#detalle6{
+    background-color: white;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 5px;
+}
+#status{
+    width: 100%;
+    height: 50px;
+    padding: 1rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
